@@ -1,0 +1,17 @@
+.sticky-header {
+	background-color: #8B0000;
+	color: khaki;
+	width: 100%;
+	text-align: left;
+	letter-spacing: 3px;
+}
+
+.button{
+	font-family: Arial;
+	font-size: 25px;
+	background: darkred;
+	color: whitesmoke;
+	border: white 2px solid;
+	border-radius: 1px;
+	letter-spacing: 5px;
+}

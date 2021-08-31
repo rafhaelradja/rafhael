@@ -1,0 +1,9 @@
+.button{
+	font-family: Arial;
+	font-size: 25px;
+	background: darkkhaki;
+	color: darkolivegreen;
+	border: darkkhaki; 2px solid;
+	border-radius: 1px;
+	letter-spacing: 5px;
+}
